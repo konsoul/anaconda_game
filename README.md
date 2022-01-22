@@ -1,1 +1,2 @@
 anaconda_game
+A simple snake game controlled by up, down, left and right buttons on keyboard.  You eat an apple, the snake grows.  You run into yourself or the wall it's game over.  Try to get the highest score you can!
